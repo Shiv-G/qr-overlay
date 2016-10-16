@@ -1,0 +1,3 @@
+/home/nathan/hackSheffield2/qr-ar-overlay/CMakeFiles/edit_cache.dir
+/home/nathan/hackSheffield2/qr-ar-overlay/CMakeFiles/rebuild_cache.dir
+/home/nathan/hackSheffield2/qr-ar-overlay/CMakeFiles/ar_qr_scanner.dir
