@@ -1,13 +1,6 @@
-[![Build Status](https://travis-ci.org/rportugal/opencv-zbar.svg?branch=master)](https://travis-ci.org/rportugal/opencv-zbar)
+Awesomium based qr code overlay in opencv.
+Loads webpage into floating window over opencv buffer.
 
-## Description
-Barcode and QR Code reader using OpenCV and ZBar
-
-After installing ZBar and OpenCV...
-
-    mkdir build
-    cd build
-    cmake ..
-    make
-    ./zbar_opencv
-# qr-overlay
+Install Awesomium, ZBar and OpenCV..
+Requires cmake.
+Made for hacksheffield2.0 2016.
